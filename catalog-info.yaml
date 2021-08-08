@@ -1,7 +1,7 @@
 apiVersion: "Component"
 metadata:
-  name: "test8"
-  description: "No description provided by user."
+  name: "test9"
+  description: "arpit local testing for devx service discovery"
   labels:
     example.com/custom: "default devx label"
   annotations:
